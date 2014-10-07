@@ -45,6 +45,18 @@ ul.nav li {
 
 }
 
+ul.nav li a {
+	color: #FAF3BC;
+}
+
+#intro {
+	margin: 50px 0 75px 0;
+}
+
+#new-cupcake img {
+	border: 8px solid;
+}
+
 
 
 
