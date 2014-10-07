@@ -54,7 +54,8 @@ ul.nav li a {
 }
 
 #new-cupcake img {
-	border: 8px solid;
+	border: 8px solid #FAF3BC;
+	margin: 0 0 20px 0;
 }
 
 
