@@ -4,3 +4,8 @@ body{
 	background: #420600 url('img/bg-texture.jpg');
 
 }
+
+a {
+	color: #4FB69F;
+	text-decoration: none;
+}
